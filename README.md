@@ -233,7 +233,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/github/issues/midigesibhavanigithub/ToDo-app.svg?style=for-the-badge
 [issues-url]: https://github.com/midigesibhavanigithub/ToDo-app/issues
 [license-shield]: https://img.shields.io/github/license/midigesibhavanigithub/ToDo-app.svg?style=for-the-badge
-[license-url]:
+[license-url]:https://github.com/midigesibhavanigithub/ToDo-app/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/midigesi-bhavani-986b91267/
 [product-screenshot]: images/screenshot.png
