@@ -97,42 +97,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Code
-##Using html
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>
-            To-Do List App - Easy Tutorials
-        </title>
-        <link rel="stylesheet" href="style.css">
-   </head>
-   <body>
-    <div class="container">
-        <div class="todo-app">
-            <h2>To-Do List  <img src="images/icon.png"></h2>
-            <div class="row">
-                <input type="text" id="input-box" placeholder="Add your text">
-                <button onclick="addTask()">Add</button>
+## Code
+## Using HTML
 
-            </div>
-            <ul id="list-container">
-               <!-- <li class="checked">Task 1</li>
-                <li>Task 2</li>
-                <li>Task 3</li>-->
+          
 
-            </ul>
-        </div>
-
-    </div>
-    <script src="script.js"></script>
-
-   </body>
-    
-    
-</html>
-##Using css
+## Using css
 *{
     margin: 0;
     padding: 0;
@@ -232,7 +202,7 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
-##Using Javascript
+## Using Javascript
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
@@ -270,10 +240,10 @@ function showtask(){
 }
 showtask();
 
-##Github Funtionalities
+## Github Functionalities
 To associate your repository with the todolist topic, visit your repo’s landing page and select “manage topics”.
 
-##Project Benefits
+## Project Benefits
 Collaborative coding is one of the key benefits of GitHub, and it has transformed the way Developers work together on code. With GitHub, multiple developers can work on the same codebase simultaneously, making it easier to manage large projects with many contributors.
 
 <!-- LICENSE -->
