@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/midigesibhavanigithub/ToDo-app/blob/main/images/download.jpg">
+  <a href="https://github.com/midigesibhavanigithub/ToDo-app">
     <img src="images/download.png" alt="Logo" width="80" height="80">
   </a>
 
