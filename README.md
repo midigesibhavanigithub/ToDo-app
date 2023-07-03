@@ -138,7 +138,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Project outcome
 
+![project outcome 1](https://github.com/midigesibhavanigithub/ToDo-app/blob/main/p1.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
