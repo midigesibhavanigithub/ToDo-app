@@ -66,6 +66,9 @@
   </li>
     <li><a href="#Github Functionalities">Github Funtionalities</a></li>
     <li><a href="#Project Benefits">Project Benefits</a></li>
+   <ul>
+    <li><a href="Improves memory">Improves memory</a></li>
+   </ul>
     <li><a href="#License">License</a></li>
     <li><a href="#Contact">Contact</a></li>
     <li><a href="#Acknowledgments">Acknowledgments</a></li>
