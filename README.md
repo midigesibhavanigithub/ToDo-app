@@ -56,7 +56,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-   <li><a href="#Introduction">Introduvtion</a></li>
+   <li><a href="#Introduction">Introduction</a></li>
     <li><a href="#Project Title">project title</a></li>
         <li><a href="#Description">Description</a></li>
        <li><a href="#Project Resources">project Resources</a></li>
