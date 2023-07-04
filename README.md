@@ -56,6 +56,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+   <li><a href="#Introduction">Introduvtion</a></li>
     <li><a href="#Project Title">project title</a></li>
         <li><a href="#Description">Description</a></li>
        <li><a href="#Project Resources">project Resources</a></li>
@@ -77,6 +78,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
+## Introduction
+Todo-list-app is an application that allows to manage a list of tasks to do.It performs adding,updating,deleting and toggling state of each task.It has minimalistic design and basic functionality.You can see it working here:
+
 ## project Title
 
 Creating a simple Todo-app web application
@@ -120,6 +125,7 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 ## Contact
 
 LinkedIn:https://www.linkedin.com/in/midigesi-bhavani-986b91267/
+
 Project Link:(https://github.com/midigesibhavanigithub/ToDo-app)                                                      
 
 <!-- ACKNOWLEDGMENTS -->
