@@ -76,6 +76,11 @@
     <li><a href="#Contact">Contact</a></li>
     <li><a href="#Acknowledgments">Acknowledgments</a></li>
     <li><a href="#Project outcome">Project outcome</a></li>
+    <ul> 
+     <li><a href="#Signup">Signup</a></li>
+     <li><a href="#Login">Login</a></li>
+      <li><a href="#Connection">Connection</a></li>
+     </ul>
     <li><a href="#Project Flowchart">Project Flowchart</a></li>
   
   </ol>
@@ -162,6 +167,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project outcome
+
+### Signup
+### Login
+### Connection
 
 ![project outcome 1](https://github.com/midigesibhavanigithub/ToDo-app/blob/main/p1.png)
 ![project outcome2](https://github.com/midigesibhavanigithub/ToDo-app/blob/main/p2.png)
