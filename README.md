@@ -79,7 +79,7 @@
     <ul> 
      <li><a href="#Signup">Signup</a></li>
      <li><a href="#Login">Login</a></li>
-      <li><a href="#Connection">Connection</a></li>
+      <li><a href="#Config">Config</a></li>
      </ul>
     <li><a href="#Project Flowchart">Project Flowchart</a></li>
   
@@ -170,10 +170,14 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ### Signup
 ![Signup](https://github.com/midigesibhavanigithub/ToDo-app/blob/main/signup.png)
-### Login
-![Login]
 
+### Login
+![Login](https://github.com/midigesibhavanigithub/ToDo-app/blob/main/login.png)
+
+### TODO page
+## Add
 ![project outcome 1](https://github.com/midigesibhavanigithub/ToDo-app/blob/main/p1.png)
+## Edit
 ![project outcome2](https://github.com/midigesibhavanigithub/ToDo-app/blob/main/p2.png)
 
 ## Project Flowchart
